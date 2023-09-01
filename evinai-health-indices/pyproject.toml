@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "evinai-health-indices"
-version = "0.0.1"
+version = "0.0.2"
 description = "a unified collection of health indices and indicators eg bmi, bai, etc"
 authors = ["evinai <togay.tunca@gmail.comm>"]
 license = "MIT"

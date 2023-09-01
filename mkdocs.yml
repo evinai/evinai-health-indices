@@ -1,0 +1,8 @@
+site_name: health-indices
+site_url: https://github.com/evinai/evinai-health-indices
+nav:
+  - Home: index.md
+  - API : api_reference.md
+  - User Guide: userguide.md
+
+theme: readthedocs
