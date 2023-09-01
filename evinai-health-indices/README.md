@@ -4,7 +4,7 @@ A unified collection of health indices and indicators e.g bmi, bai, corps index 
 # health-indices
 A unified collection of health indices and health indicators eg bmi,bai,corp index,etc
 
-#### Purpose of the Packag
+#### Purpose of the Package
 + The purpose of the package is to provide a collection of all health indices in one unified libary
 
 
@@ -29,7 +29,7 @@ The package can be found on pypi hence you can install it using pip
 
 #### Installation
 ```bash
-pip install health_indices
+pip install evin-health-indices
 ```
 
 

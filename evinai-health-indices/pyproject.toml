@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "evinai-health-indices"
 version = "0.0.1"
-description = "aa unified collection of health indices and indicators eg bmi, bai, etc"
+description = "a unified collection of health indices and indicators eg bmi, bai, etc"
 authors = ["evinai <togay.tunca@gmail.comm>"]
 license = "MIT"
 readme = "README.md"
