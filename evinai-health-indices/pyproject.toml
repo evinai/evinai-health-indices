@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "evinai-health-indices"
+version = "0.0.1"
+description = "aa unified collection of health indices and indicators eg bmi, bai, etc"
+authors = ["evinai <togay.tunca@gmail.comm>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/evinai/evinai-health-indices"
+repository = "https://github.com/evinai/evinai-health-indices"
+keywords = ["health-indices", "health-indicators", "bmi", "bodymassindex", "bai", "birth-rate"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

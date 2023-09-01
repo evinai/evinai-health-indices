@@ -67,6 +67,9 @@ Body Mass Index is =>  18.0
 ```
 
 ### Contribution
+Contributions are welcome
 
 
 ### Author
++ Main Mainteainer: Togay Tunca
++ Source: Jesse E.Agbe(jCharis youtube tutorial)
